@@ -7,12 +7,6 @@ QuickCart is a fully responsive ecommerce website, maximum compatiblities in all
 
 ## Demo
 
-![QuickCart Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-
-<br>
-
-![QuickCart Mobile Demo](./website-demo-image/img1.png "Mobile Demo")
-
 <br>
 
 ![QuickCart Mobile Demo](./website-demo-image/img2.png "Mobile Demo")
